@@ -3,7 +3,7 @@ date
 
 Description
 -----------
-This patch adds date and time at the bottom of the vertical dmenu layout, using the `date` command with arguments. 
+This patch adds date and time at the bottom of the vertical dmenu layout. 
 
 ![dmenu date screenshot](dmenu-date.png)
 
